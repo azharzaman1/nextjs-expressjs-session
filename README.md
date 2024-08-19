@@ -42,3 +42,5 @@ const Component = async () => {
 }
 ```
 
+### Reources
+https://www.reddit.com/r/nextjs/comments/14sy295/nextjs_authentication_with_an_external_expressjs/
