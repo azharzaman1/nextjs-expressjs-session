@@ -43,4 +43,6 @@ const Component = async () => {
 ```
 
 ### Reources
+https://github.com/nextauthjs/next-auth/issues/7558
 https://www.reddit.com/r/nextjs/comments/14sy295/nextjs_authentication_with_an_external_expressjs/
+https://github.com/nextauthjs/next-auth/issues/7558#issuecomment-1915756093
